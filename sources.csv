@@ -1,1 +1,175 @@
-category,name,url,frequency,language,why
+分类,名称,链接,类型,语言,更新频率,一句话推荐
+官方博客/模型厂商,OpenAI News,https://openai.com/news/,博客,英文,几天一更,ChatGPT/GPT 系列发布第一手出处
+官方博客/模型厂商,Anthropic News,https://www.anthropic.com/news,博客,英文,每周,Claude 模型与安全研究官方公告
+官方博客/模型厂商,Google DeepMind Blog,https://deepmind.google/discover/blog/,博客,英文,每周,Gemini、AlphaFold 等前沿研究原文
+官方博客/模型厂商,Google AI Blog (The Keyword),https://blog.google/technology/ai/,博客,英文,几天一更,Google 全线 AI 产品更新集中地
+官方博客/模型厂商,Google Research Blog,https://research.google/blog/,博客,英文,每周,Google 研究院论文与方法解读
+官方博客/模型厂商,Microsoft Research Blog,https://www.microsoft.com/en-us/research/blog/,博客,英文,每周,微软研究院前沿成果
+官方博客/模型厂商,Mistral AI News,https://mistral.ai/news,博客,英文,每月数篇,欧洲头部模型厂的发布页
+官方博客/模型厂商,NVIDIA Blog,https://blogs.nvidia.com/,博客,英文,每天,算力、芯片与生态合作一手消息
+官方博客/模型厂商,NVIDIA Newsroom,https://nvidianews.nvidia.com/,博客,英文,每周,英伟达正式新闻稿
+官方博客/模型厂商,NVIDIA Technical Blog,https://developer.nvidia.com/blog/,博客,英文,每天,CUDA/推理优化等工程干货
+官方博客/模型厂商,Hugging Face Blog,https://huggingface.co/blog,博客,英文,几天一更,开源模型、数据集与教程
+官方博客/模型厂商,AWS Machine Learning Blog,https://aws.amazon.com/blogs/machine-learning/,博客,英文,每天,Bedrock/SageMaker 实践与发布
+官方博客/模型厂商,Apple Machine Learning Research,https://machinelearning.apple.com/,博客,英文,每月,苹果端侧 AI 研究
+官方博客/模型厂商,Cohere Blog,https://cohere.com/blog,博客,英文,每月数篇,企业级大模型与 RAG 进展
+官方博客/模型厂商,Runway News,https://runwayml.com/news,博客,英文,每月数篇,AI 视频生成头部厂商动态
+官方博客/模型厂商,ElevenLabs Blog,https://elevenlabs.io/blog,博客,英文,每周,语音合成与音频 AI 新功能
+官方博客/模型厂商,Cursor Blog,https://cursor.com/blog,博客,英文,每月数篇,AI 编程工具的产品与研究
+官方博客/模型厂商,Cursor Changelog,https://cursor.com/changelog,博客,英文,每周,Cursor 每次版本变更
+官方博客/模型厂商,xAI News,https://x.ai/news,博客,英文,每月数篇,Grok 模型官方公告
+官方博客/模型厂商,xAI API 文档更新,https://docs.x.ai/docs/release-notes,博客,英文,每周,Grok API 新功能落地记录
+官方博客/模型厂商,Together AI Blog,https://www.together.ai/blog,博客,英文,每周,开源模型推理与训练平台动态
+官方博客/模型厂商,Replicate Blog,https://replicate.com/blog,博客,英文,每月数篇,一键跑开源模型的新玩法
+官方博客/模型厂商,fal Blog,https://blog.fal.ai/,博客,英文,每周,生成式媒体推理平台上新
+官方博客/模型厂商,LangChain Blog,https://blog.langchain.com/,博客,英文,每周,Agent 框架与工程实践
+官方博客/模型厂商,Ollama Blog,https://ollama.com/blog,博客,英文,每月,本地跑大模型的新支持
+官方博客/模型厂商,LM Studio Blog,https://lmstudio.ai/blog,博客,英文,每月,本地模型桌面工具更新
+官方博客/模型厂商,Luma AI News,https://lumalabs.ai/news,博客,英文,每月,视频/3D 生成模型发布
+官方博客/模型厂商,Black Forest Labs,https://bfl.ai/announcements,博客,英文,每月,FLUX 图像模型官方发布
+官方博客/模型厂商,Suno Blog,https://suno.com/blog,博客,英文,每月,AI 音乐生成产品更新
+官方博客/模型厂商,智谱 BigModel 公告,https://bigmodel.cn/dev/howuse/model,博客,中文,每月,GLM 系列模型更新
+官方博客/模型厂商,MiniMax 新闻,https://www.minimax.io/news,博客,中英,每月,MiniMax 模型与海螺产品发布
+官方博客/模型厂商,Cloudflare Blog AI,https://blog.cloudflare.com/tag/ai/,博客,英文,每天,边缘推理与 AI 安全实践
+官方博客/模型厂商,GitHub Blog AI,https://github.blog/ai-and-ml/,博客,英文,每周,Copilot 与 AI 开发工具官方
+官方博客/模型厂商,GitHub Changelog,https://github.blog/changelog/,博客,英文,每天,Copilot 功能上线第一时间
+官方博客/模型厂商,Ai2 Blog,https://allenai.org/blog,博客,英文,每月数篇,OLMo 等全开源模型研究
+官方博客/模型厂商,Databricks Blog,https://www.databricks.com/blog,博客,英文,每天,企业数据+AI 平台动态
+官方博客/模型厂商,Vercel Blog,https://vercel.com/blog,博客,英文,每周,v0 与 AI SDK 更新
+官方博客/模型厂商,Cognition Blog,https://cognition.ai/blog,博客,英文,每月,Devin 编程智能体进展
+官方博客/模型厂商,Microsoft AI (MAI),https://microsoft.ai/news/,博客,英文,每月,微软 AI 部门自研模型公告
+官方博客/模型厂商,Amazon Science,https://www.amazon.science/,博客,英文,每周,亚马逊 AI 研究
+官方博客/模型厂商,Salesforce AI Research,https://www.salesforce.com/blog/category/ai-research/,博客,英文,每月,企业 Agent 研究
+官方博客/模型厂商,IBM Research Blog,https://research.ibm.com/blog,博客,英文,每周,Granite 模型与研究
+官方博客/模型厂商,AMD AI Newsroom,https://www.amd.com/en/newsroom.html,博客,英文,每周,MI 系列加速卡与 AI 合作
+官方博客/模型厂商,Groq Blog,https://groq.com/blog,博客,英文,每月数篇,高速推理芯片与服务
+官方博客/模型厂商,Cerebras Blog,https://www.cerebras.ai/blog,博客,英文,每月数篇,晶圆级芯片推理进展
+官方博客/模型厂商,Notion Releases,https://www.notion.com/releases,仓库,英文,每周,Notion AI 功能更新
+官方博客/模型厂商,Figma Blog,https://www.figma.com/blog/,博客,英文,每周,设计工具中的 AI 新功能
+中文媒体,IT之家 AI,https://www.ithome.com/tag/ai/,媒体,中文,每天多次,国内科技快讯更新最快
+中文媒体,量子位,https://www.qbitai.com/,媒体,中文,每天,中文 AI 快讯与圈内动态
+中文媒体,新智元,https://aiera.com.cn/,媒体,中文,每天,海外 AI 动态中文编译
+中文媒体,爱范儿,https://www.ifanr.com/,媒体,中文,每天,AI 产品体验与消费科技
+中文媒体,虎嗅,https://www.huxiu.com/,媒体,中文,每天,商业视角看 AI 产业
+中文媒体,钛媒体,https://www.tmtpost.com/,媒体,中文,每天,科技产业与资本动态
+中文媒体,少数派,https://sspai.com/,媒体,中文,每天,AI 工具效率实践
+中文媒体,极客公园,https://www.geekpark.net/,媒体,中文,每天,创新产品与创业者访谈
+中文媒体,InfoQ 中文 AI,https://www.infoq.cn/topic/AI,媒体,中文,每天,面向工程师的 AI 落地报道
+中文媒体,AIbase 资讯,https://news.aibase.com/zh/news,媒体,中文,每天多次,AI 快讯聚合，覆盖面广
+中文媒体,AI工具集 快讯,https://ai-bot.cn/daily-ai-news/,媒体,中文,每天,每日 AI 快讯与新工具
+中文媒体,雷峰网,https://www.leiphone.com/,媒体,中文,每天,AI 学术与产业报道
+中文媒体,品玩,https://www.pingwest.com/,媒体,中文,每天,硅谷与国内科技动态
+中文媒体,cnBeta,https://www.cnbeta.com.tw/,媒体,中文,每天多次,科技快讯量大更新快
+中文媒体,甲子光年,https://www.jazzyear.com/,媒体,中文,每周,产业 AI 深度研究
+中文媒体,开源中国资讯,https://www.oschina.net/news,媒体,中文,每天,开源与 AI 工具中文快讯
+中文媒体,CSDN 资讯,https://www.csdn.net/,媒体,中文,每天,开发者向 AI 新闻
+中文媒体,宝玉的分享,https://baoyu.io/,媒体,中文,每周,高质量英文 AI 文章中译
+中文媒体,阮一峰 科技爱好者周刊,https://www.ruanyifeng.com/blog/,媒体,中文,每周,每周科技与 AI 精选
+中文媒体,Solidot,https://www.solidot.org/,媒体,中文,每天,简短科技新闻含 AI
+中文媒体,新浪科技,https://tech.sina.com.cn/,媒体,中文,每天多次,门户科技新闻
+英文媒体,TechCrunch AI,https://techcrunch.com/category/artificial-intelligence/,媒体,英文,每天多次,AI 创业融资与产品发布
+英文媒体,The Verge AI,https://www.theverge.com/ai-artificial-intelligence,媒体,英文,每天,消费级 AI 产品报道
+英文媒体,Ars Technica AI,https://arstechnica.com/ai/,媒体,英文,每天,技术深度兼批判视角
+英文媒体,Wired AI,https://www.wired.com/tag/artificial-intelligence/,媒体,英文,每天,AI 与社会的长文
+英文媒体,MIT Technology Review AI,https://www.technologyreview.com/topic/artificial-intelligence/,媒体,英文,每天,权威科技媒体的 AI 分析
+英文媒体,Engadget AI,https://www.engadget.com/ai/,媒体,英文,每天,消费科技 AI 快讯
+英文媒体,ZDNET AI,https://www.zdnet.com/topic/artificial-intelligence/,媒体,英文,每天,AI 工具评测与指南
+英文媒体,The Decoder,https://the-decoder.com/,媒体,英文,每天,专注 AI 的新闻站
+英文媒体,MarkTechPost,https://www.marktechpost.com/,媒体,英文,每天,论文与模型发布速报
+英文媒体,SiliconANGLE AI,https://siliconangle.com/category/ai/,媒体,英文,每天,企业级 AI 新闻
+英文媒体,404 Media,https://www.404media.co/,媒体,英文,每天,AI 灰色地带调查报道
+英文媒体,IEEE Spectrum AI,https://spectrum.ieee.org/topic/artificial-intelligence/,媒体,英文,每周,工程界视角的 AI
+英文媒体,Futurism AI,https://futurism.com/artificial-intelligence,媒体,英文,每天,AI 社会影响报道
+英文媒体,CNBC Tech,https://www.cnbc.com/technology/,媒体,英文,每天多次,AI 股票与财经视角
+英文媒体,Tom's Hardware,https://www.tomshardware.com/,媒体,英文,每天多次,GPU 与 AI 硬件
+英文媒体,The Register AI,https://www.theregister.com/software/ai_ml/,媒体,英文,每天,犀利的 IT 产业报道
+英文媒体,Fortune AI,https://fortune.com/section/artificial-intelligence/,媒体,英文,每天,AI 商业与 CEO 视角
+英文媒体,SecurityWeek AI,https://www.securityweek.com/category/artificial-intelligence/,媒体,英文,每天,AI 安全攻防新闻
+英文媒体,Simon Willison's Weblog,https://simonwillison.net/,博客,英文,每天,LLM 实战笔记最勤快的博主
+英文媒体,Gary Marcus,https://garymarcus.substack.com/,博客,英文,每周,AI 怀疑派的代表观点
+英文媒体,Artificial Analysis,https://artificialanalysis.ai/,媒体,英文,每天,模型性能价格独立评测榜
+Newsletter,Import AI,https://importai.substack.com/,Newsletter,英文,每周,Jack Clark 的 AI 研究周报
+Newsletter,The Batch (DeepLearning.AI),https://www.deeplearning.ai/the-batch/,Newsletter,英文,每周,吴恩达团队 AI 周报
+Newsletter,Ben's Bites,https://www.bensbites.com/,Newsletter,英文,每周,AI 产品与创业速览
+Newsletter,Latent Space,https://www.latent.space/,Newsletter,英文,每周,AI 工程师的深度访谈与周报
+Newsletter,Interconnects,https://www.interconnects.ai/,Newsletter,英文,每周,开源模型与后训练深度分析
+Newsletter,Last Week in AI,https://lastweekin.ai/,Newsletter,英文,每周,一周 AI 新闻综述
+Newsletter,One Useful Thing,https://www.oneusefulthing.org/,Newsletter,英文,每周,Ethan Mollick 的 AI 实用观察
+Newsletter,Ahead of AI,https://magazine.sebastianraschka.com/,Newsletter,英文,每月数篇,LLM 训练与研究精读
+Newsletter,The Rundown AI,https://www.therundown.ai/,Newsletter,英文,每天,大众向每日 AI 快讯
+Newsletter,Superhuman AI,https://www.superhuman.ai/,Newsletter,英文,每天,AI 工具与新闻日报
+Newsletter,AI Snake Oil / AI as Normal Technology,https://www.normaltech.ai/,Newsletter,英文,每月数篇,理性评估 AI 炒作
+Newsletter,Stratechery,https://stratechery.com/,Newsletter,英文,每周,科技战略分析含 AI
+Newsletter,Platformer,https://www.platformer.news/,Newsletter,英文,每周,平台与 AI 政策观察
+Newsletter,Exponential View,https://www.exponentialview.co/,Newsletter,英文,每周,技术趋势宏观视角
+Newsletter,ChinAI,https://chinai.substack.com/,Newsletter,英文,每周,中国 AI 动态英译解读
+Newsletter,Don't Worry About the Vase,https://thezvi.substack.com/,Newsletter,英文,每周,AI 新闻长篇汇总点评
+Newsletter,AI Supremacy,https://www.ai-supremacy.com/,Newsletter,英文,每周,AI 产业与投资分析
+Newsletter,Understanding AI,https://www.understandingai.org/,Newsletter,英文,每周,AI 政策与技术解释
+Newsletter,SemiAnalysis Newsletter,https://newsletter.semianalysis.com/,Newsletter,英文,每周,算力供应链深度
+播客/视频,Latent Space Podcast,https://www.latent.space/podcast,播客,英文,每周,一线 AI 工程师访谈
+播客/视频,Dwarkesh Podcast,https://www.dwarkesh.com/,播客,英文,每月数期,顶级研究者长访谈
+播客/视频,Lex Fridman Podcast,https://lexfridman.com/podcast/,播客,英文,每周,科技大佬深度对话
+播客/视频,晚点聊 LateTalk,https://www.xiaoyuzhoufm.com/podcast/61933ace1b4320461e91fd55,播客,中文,每周,国内 AI 创业者访谈
+播客/视频,张小珺 商业访谈录,https://www.xiaoyuzhoufm.com/podcast/626b46ea9cbbf0451cf5a962,播客,中文,每周,国内 AI 大佬长访谈
+播客/视频,硅谷101,https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc,播客,中文,每周,硅谷科技与 AI 深度
+研究/论文,arXiv cs.AI,https://arxiv.org/list/cs.AI/recent,论文,英文,每天,AI 论文第一现场
+研究/论文,arXiv cs.CL,https://arxiv.org/list/cs.CL/recent,论文,英文,每天,语言模型论文
+研究/论文,arXiv cs.LG,https://arxiv.org/list/cs.LG/recent,论文,英文,每天,机器学习论文
+研究/论文,Hugging Face Daily Papers,https://huggingface.co/papers,论文,英文,每天,社区投票的每日热门论文
+研究/论文,Papers with Code / HF Trending,https://huggingface.co/papers/trending,论文,英文,每天,带代码的热门论文
+研究/论文,Epoch AI,https://epoch.ai/blog,论文,英文,每周,算力与模型规模趋势数据
+研究/论文,The Gradient,https://thegradient.pub/,论文,英文,每月,AI 研究评论与访谈
+研究/论文,METR,https://metr.org/blog/,论文,英文,每月,前沿模型能力与风险评估
+研究/论文,Distill-like: Transformer Circuits,https://transformer-circuits.pub/,论文,英文,不定期,可解释性研究前沿
+开源/工具,Hugging Face Models Trending,https://huggingface.co/models?sort=trending,仓库,英文,每天,最热开源模型
+开源/工具,Hugging Face Spaces Trending,https://huggingface.co/spaces?sort=trending,仓库,英文,每天,可直接试玩的模型 Demo
+开源/工具,Product Hunt AI,https://www.producthunt.com/topics/artificial-intelligence,仓库,英文,每天,新 AI 产品首发地
+开源/工具,vLLM Releases,https://github.com/vllm-project/vllm/releases,仓库,英文,每周,主流推理框架版本
+开源/工具,llama.cpp Releases,https://github.com/ggml-org/llama.cpp/releases,仓库,英文,每天,本地推理新模型支持
+开源/工具,Ollama Releases,https://github.com/ollama/ollama/releases,仓库,英文,每周,本地模型新支持
+开源/工具,Transformers Releases,https://github.com/huggingface/transformers/releases,仓库,英文,每周,新模型架构落地
+开源/工具,OpenRouter 模型列表,https://openrouter.ai/models,仓库,英文,每天,新模型上架与价格对比
+开源/工具,HelloGitHub,https://hellogithub.com/,仓库,中文,每月,中文开源项目月刊
+政策监管,国家网信办,https://www.cac.gov.cn/,政策站,中文,每天,国内生成式 AI 备案与监管
+政策监管,中国政府网 政策,https://www.gov.cn/zhengce/,政策站,中文,每天,国家层面 AI 政策原文
+政策监管,工业和信息化部,https://www.miit.gov.cn/,政策站,中文,每天,AI 产业政策
+政策监管,UK AI Security Institute,https://www.aisi.gov.uk/,政策站,英文,每月数篇,英国 AI 安全评估
+政策监管,NIST AI,https://www.nist.gov/artificial-intelligence,政策站,英文,每月,AI 风险框架与标准
+政策监管,IAPP AI 治理,https://iapp.org/news/,政策站,英文,每天,隐私与 AI 治理新闻
+社区聚合,Hacker News,https://news.ycombinator.com/,社区,英文,实时,技术圈最热讨论
+社区聚合,r/OpenAI,https://www.reddit.com/r/OpenAI/,社区,英文,实时,OpenAI 用户社区
+社区聚合,Lobsters AI,https://lobste.rs/t/ai,社区,英文,每天,精选技术讨论
+社区聚合,V2EX,https://www.v2ex.com/,社区,中文,实时,中文开发者社区
+社区聚合,Linux.do,https://linux.do/,社区,中文,实时,中文 AI 工具玩家社区
+社区聚合,知一刻,https://zhiyike.cn/,社区,中文,每天,AI 资讯一事一卡，官方源优先合成
+社区聚合,Techmeme,https://www.techmeme.com/,社区,英文,实时,科技头条自动聚合
+社区聚合,Hacker News 首页 RSS(hnrss),https://hnrss.org/newest?q=AI,社区,英文,实时,按关键词订阅 HN
+X 账号,Anthropic @AnthropicAI,https://x.com/AnthropicAI,X账号,英文,几乎每天,Anthropic 官方号，新品常先在这里官宣
+X 账号,Jim Fan（NVIDIA 具身智能） @DrJimFan,https://x.com/DrJimFan,X账号,英文,每天,Jim Fan 本人动态与行业判断
+X 账号,ElevenLabs @ElevenLabs,https://x.com/ElevenLabs,X账号,英文,几乎每天,ElevenLabs 官方号，新品常先在这里官宣
+X 账号,Google AI @GoogleAI,https://x.com/GoogleAI,X账号,英文,几乎每天,Google AI 官方号，新品常先在这里官宣
+X 账号,Google DeepMind @GoogleDeepMind,https://x.com/GoogleDeepMind,X账号,英文,几乎每天,Google DeepMind 官方号，新品常先在这里官宣
+X 账号,Kimi 月之暗面 @Kimi_Moonshot,https://x.com/Kimi_Moonshot,X账号,英文,几乎每天,Kimi 月之暗面 官方号，新品常先在这里官宣
+X 账号,LangChain @LangChain,https://x.com/LangChain,X账号,英文,几乎每天,LangChain 官方号，新品常先在这里官宣
+X 账号,Luma @LumaLabsAI,https://x.com/LumaLabsAI,X账号,英文,几乎每天,Luma 官方号，新品常先在这里官宣
+X 账号,MiniMax @MiniMax_AI,https://x.com/MiniMax_AI,X账号,英文,几乎每天,MiniMax 官方号，新品常先在这里官宣
+X 账号,Mistral @MistralAI,https://x.com/MistralAI,X账号,英文,几乎每天,Mistral 官方号，新品常先在这里官宣
+X 账号,NVIDIA AI @NVIDIAAI,https://x.com/NVIDIAAI,X账号,英文,几乎每天,NVIDIA AI 官方号，新品常先在这里官宣
+X 账号,OpenAI @OpenAI,https://x.com/OpenAI,X账号,英文,几乎每天,OpenAI 官方号，新品常先在这里官宣
+X 账号,Black Forest Labs @bfl_ai,https://x.com/bfl_ai,X账号,英文,几乎每天,Black Forest Labs 官方号，新品常先在这里官宣
+X 账号,Cohere @cohere,https://x.com/cohere,X账号,英文,几乎每天,Cohere 官方号，新品常先在这里官宣
+X 账号,Cursor @cursor_ai,https://x.com/cursor_ai,X账号,英文,几乎每天,Cursor 官方号，新品常先在这里官宣
+X 账号,DeepSeek @deepseek_ai,https://x.com/deepseek_ai,X账号,英文,几乎每天,DeepSeek 官方号，新品常先在这里官宣
+X 账号,fal @fal,https://x.com/fal,X账号,英文,几乎每天,fal 官方号，新品常先在这里官宣
+X 账号,Greg Brockman（OpenAI 总裁） @gdb,https://x.com/gdb,X账号,英文,每天,Greg Brockman 本人动态与行业判断
+X 账号,Grok @grok,https://x.com/grok,X账号,英文,几乎每天,Grok 官方号，新品常先在这里官宣
+X 账号,LM Studio @lmstudio,https://x.com/lmstudio,X账号,英文,几乎每天,LM Studio 官方号，新品常先在这里官宣
+X 账号,Ollama @ollama,https://x.com/ollama,X账号,英文,几乎每天,Ollama 官方号，新品常先在这里官宣
+X 账号,Perplexity @perplexity_ai,https://x.com/perplexity_ai,X账号,英文,几乎每天,Perplexity 官方号，新品常先在这里官宣
+X 账号,Pika @pika_labs,https://x.com/pika_labs,X账号,英文,几乎每天,Pika 官方号，新品常先在这里官宣
+X 账号,Runway @runwayml,https://x.com/runwayml,X账号,英文,几乎每天,Runway 官方号，新品常先在这里官宣
+X 账号,Sam Altman（OpenAI CEO） @sama,https://x.com/sama,X账号,英文,每天,Sam Altman 本人动态与行业判断
+X 账号,Suno @suno,https://x.com/suno,X账号,英文,几乎每天,Suno 官方号，新品常先在这里官宣
+X 账号,Thibault Sottiaux（OpenAI Codex） @thsottiaux,https://x.com/thsottiaux,X账号,英文,每天,Thibault Sottiaux 本人动态与行业判断
+X 账号,Together AI @togethercompute,https://x.com/togethercompute,X账号,英文,几乎每天,Together AI 官方号，新品常先在这里官宣

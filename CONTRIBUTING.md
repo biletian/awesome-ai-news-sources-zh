@@ -7,8 +7,8 @@
 - 不收未核实、刷量或付费推广的源 / No unverified, spammy, or paid-promotion sources.
 
 ## 怎么加 · How to add
-1. 只改 `sources.csv`（列：`category,name,url,frequency,language,why`），`category` 必须是 README 里的八类之一。
-   Edit `sources.csv` only; `category` must be one of the eight in README.
+1. 只改 `sources.csv`（列：`分类,名称,链接,类型,语言,更新频率,一句话推荐`），`分类` 必须是 README 里的十类之一。
+   Edit `sources.csv` only; `category` must be one of the ten in README.
 2. 运行 / Run `python3 scripts/gen_table.py`，README 会自动更新。
 3. 提 PR，写明这个源为什么值得看 / Open a PR explaining why the source is worth reading.
 
