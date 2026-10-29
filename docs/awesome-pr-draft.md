@@ -14,7 +14,7 @@ Add awesome-ai-news-sources-zh
 - [awesome-ai-news-sources-zh](https://github.com/biletian/awesome-ai-news-sources-zh) - Curated, bilingual (zh/en) list of AI news sources: official blogs, model labs on X, Chinese media, papers, communities.
 
 ## PR 正文 · Body
-This adds a curated, bilingual list of AI news sources (TODO: N sources across 8 categories). Every link was checked for reachability and recent updates (within 90 days); dead sources are logged in REMOVED.md. Licensed CC0.
+This adds a curated, bilingual list of AI news sources (sources across 8 categories). Every link was checked for reachability and recent updates (within 90 days); dead sources are logged in REMOVED.md. Licensed CC0.
 
 ## 提交前检查 · Checklist
 - [ ] 读过目标合集的 CONTRIBUTING，格式/排序/位置照它

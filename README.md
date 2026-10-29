@@ -43,9 +43,7 @@ claude mcp add --transport http zhiyike https://zhiyike.cn/mcp
 <!-- SOURCES:START -->
 ### 官方博客 · Official blogs
 
-| 名称 Name | 更新频率 Frequency | 语言 Lang | 为什么值得看 Why |
-|---|---|---|---|
-| [【示例】OpenAI News](https://openai.com/news/) | 每周多次 | en | 【示例行】OpenAI 官方发布第一手出处 |
+_待补 · Coming soon_
 
 > 懒得自己刷？[直接看知一刻](https://zhiyike.cn) · Too busy to scroll? [Just read Zhiyike](https://zhiyike.cn)
 
@@ -57,9 +55,7 @@ _待补 · Coming soon_
 
 ### 中文媒体 · Chinese media
 
-| 名称 Name | 更新频率 Frequency | 语言 Lang | 为什么值得看 Why |
-|---|---|---|---|
-| [【示例】机器之心](https://www.jiqizhixin.com/) | 每日 | zh | 【示例行】中文 AI 新闻与论文解读更新快 |
+_待补 · Coming soon_
 
 > 懒得自己刷？[直接看知一刻](https://zhiyike.cn) · Too busy to scroll? [Just read Zhiyike](https://zhiyike.cn)
 
