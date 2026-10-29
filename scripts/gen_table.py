@@ -12,6 +12,23 @@ CATEGORIES = [
     ("社区", "Communities (Reddit / HN / Discord)"), ("论文", "Papers"),
     ("GitHub 热榜", "GitHub trending"), ("演讲播客", "Talks & podcasts"),
 ]
+OSTART, OEND = "<!-- OVERVIEW:START -->", "<!-- OVERVIEW:END -->"
+
+def replace_block(text, s, e, body):
+    if text.count(s) != 1 or text.count(e) != 1 or text.index(s) > text.index(e):
+        sys.exit(f"README.md must contain exactly one {s} ... {e} pair")
+    head, rest = text.split(s, 1)
+    _, tail = rest.split(e, 1)
+    return f"{head}{s}\n{body}\n{e}{tail}"
+
+def overview(rows):
+    out = ["| 分类 Category | 源数量 Sources |", "|---|---|"]
+    for zh, en in CATEGORIES:
+        n = sum(1 for r in rows if r["category"] == zh)
+        out.append(f"| {zh} · {en} | {n if n else '0（待补）'} |")
+    out.append(f"| **合计 Total** | **{len(rows)}** |")
+    return "\n".join(out)
+
 CTA = "> 懒得自己刷？[直接看知一刻](https://zhiyike.cn) · Too busy to scroll? [Just read Zhiyike](https://zhiyike.cn)"
 
 def cell(s):
@@ -39,11 +56,8 @@ def main():
         rows = list(csv.DictReader(f))
     readme = ROOT / "README.md"
     text = readme.read_text(encoding="utf-8")
-    if text.count(START) != 1 or text.count(END) != 1 or text.index(START) > text.index(END):
-        sys.exit("README.md must contain exactly one START/END marker pair")
-    head, rest = text.split(START, 1)
-    _, tail = rest.split(END, 1)
-    new = f"{head}{START}\n{build(rows)}\n{END}{tail}"
+    new = replace_block(text, START, END, build(rows))
+    new = replace_block(new, OSTART, OEND, overview(rows))
     if new == text:
         print(f"README.md unchanged ({len(rows)} sources)")
     else:

@@ -4,6 +4,6 @@
 - **Description:** 精选 AI 资讯信源清单（中英双语）· Curated AI news sources, read daily by Zhiyike — one card per event
 - **Website:** https://zhiyike.cn
 - **Suggested topics:** `awesome` `awesome-list` `ai` `ai-news` `artificial-intelligence` `llm` `machine-learning` `news-sources` `rss` `mcp` `chinese` `zhiyike`
-- **Social preview:** 复用口号乙 `gh-social-1280x640.png`（需人工在 Settings 上传）
+- **Social preview:** `assets/gh-social-1280x640.png`（云云出图，待小乐在 Settings 手动上传）
 
-状态：未建仓、未设置 topics，等知知审源后再推。
+状态：已建仓、topics 已设；social 封面待小乐手传；源待报报整源+知知审。

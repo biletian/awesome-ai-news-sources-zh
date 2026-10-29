@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.jpg">
-  <img alt="知一刻 · AI 资讯，一事一卡 · AI news, one card per event" src="assets/banner-light.jpg">
+  <img alt="Awesome AI News Sources（中文）· 知一刻" src="assets/banner-light.jpg">
 </picture>
 
 # Awesome AI News Sources（中文）
@@ -15,6 +15,30 @@
 A curated list of AI news sources worth reading every day: official blogs, model labs on X, Chinese media, aggregators, communities, papers, GitHub trending, talks and podcasts. One line per source: name, link, update frequency, language, and why it is worth reading.
 
 We read these sources every day and turn them into one card per event → [zhiyike.cn](https://zhiyike.cn)
+
+## 知一刻 · Zhiyike
+
+> **AI 资讯，一事一卡** · AI news, one card per event → **[zhiyike.cn](https://zhiyike.cn)**
+
+<img alt="知一刻首页 · Zhiyike home" src="assets/home.png" width="100%">
+
+<img alt="知一刻 MCP 演示 · Zhiyike MCP demo" src="assets/zhiyike-connect-silent-demo.gif" width="100%">
+
+## 分类速览 · Overview
+
+<!-- OVERVIEW:START -->
+| 分类 Category | 源数量 Sources |
+|---|---|
+| 官方博客 · Official blogs | 0（待补） |
+| 模型厂 X · Model labs on X | 0（待补） |
+| 中文媒体 · Chinese media | 0（待补） |
+| 聚合站 · Aggregators | 0（待补） |
+| 社区 · Communities (Reddit / HN / Discord) | 0（待补） |
+| 论文 · Papers | 0（待补） |
+| GitHub 热榜 · GitHub trending | 0（待补） |
+| 演讲播客 · Talks & podcasts | 0（待补） |
+| **合计 Total** | **0** |
+<!-- OVERVIEW:END -->
 
 ## 直接订阅 · Subscribe
 
@@ -90,6 +114,14 @@ _待补 · Coming soon_
 > 懒得自己刷？[直接看知一刻](https://zhiyike.cn) · Too busy to scroll? [Just read Zhiyike](https://zhiyike.cn)
 
 <!-- SOURCES:END -->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=biletian/awesome-ai-news-sources-zh&type=Date)](https://star-history.com/#biletian/awesome-ai-news-sources-zh&Date)
+
+## 贡献者 · Contributors
+
+<a href="https://github.com/biletian/awesome-ai-news-sources-zh/graphs/contributors"><img alt="contributors" src="https://contrib.rocks/image?repo=biletian/awesome-ai-news-sources-zh"></a>
 
 ## 贡献 · Contributing
 
