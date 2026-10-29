@@ -28,6 +28,8 @@ We read these sources every day and turn them into one card per event → [zhiyi
 
 <img alt="知一刻 MCP 演示 · Zhiyike MCP demo" src="assets/zhiyike-connect-silent-demo.gif" width="100%">
 
+**相关仓库 · Related**：[biletian/zhiyike-connect](https://github.com/biletian/zhiyike-connect) — 知一刻主仓：MCP / Skill / RSS 接入 · Zhiyike main repo: MCP, Skill & RSS access
+
 ## 分类速览 · Overview
 
 <!-- OVERVIEW:START -->
