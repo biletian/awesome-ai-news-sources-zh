@@ -1,0 +1,23 @@
+name: links
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: README is in sync with sources.csv
+        run: |
+          python3 scripts/gen_table.py
+          git diff --exit-code README.md
+      - name: Link check
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress --timeout 20 --max-retries 2
+            --accept '200..=299,403,429'
+            README.md
+          fail: true
