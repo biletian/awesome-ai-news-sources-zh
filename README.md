@@ -6,7 +6,7 @@
 # Awesome AI News Sources（中文）
 
 <!-- BADGE:START -->
-[![sources](https://img.shields.io/badge/sources-174-2ea44f)](#信源--sources)
+[![sources](https://img.shields.io/badge/sources-176-2ea44f)](#信源--sources)
 <!-- BADGE:END -->
 
 **中文** | [English](#english)
@@ -26,8 +26,6 @@ We read these sources every day and turn them into one card per event → [zhiyi
 
 <img alt="知一刻首页 · Zhiyike home" src="assets/home.png" width="100%">
 
-<img alt="知一刻 MCP 演示 · Zhiyike MCP demo" src="assets/zhiyike-connect-silent-demo.gif" width="100%">
-
 **相关仓库 · Related**：[biletian/zhiyike-connect](https://github.com/biletian/zhiyike-connect) — 知一刻主仓：MCP / Skill / RSS 接入 · Zhiyike main repo: MCP, Skill & RSS access
 
 ## 分类速览 · Overview
@@ -38,14 +36,14 @@ We read these sources every day and turn them into one card per event → [zhiyi
 | 官方博客/模型厂商 · Official blogs & labs | 47 |
 | X 账号 · X accounts | 28 |
 | 中文媒体 · Chinese media | 21 |
-| 英文媒体 · English media | 21 |
+| 英文媒体 · English media | 22 |
 | Newsletter · Newsletters | 19 |
 | 研究/论文 · Research & papers | 9 |
 | 开源/工具 · Open source & tools | 9 |
-| 社区聚合 · Communities & aggregators | 8 |
+| 社区聚合 · Communities & aggregators | 9 |
 | 播客/视频 · Podcasts & video | 6 |
 | 政策监管 · Policy & regulation | 6 |
-| **合计 Total** | **174** |
+| **合计 Total** | **176** |
 <!-- OVERVIEW:END -->
 
 ## 直接订阅 · Subscribe
@@ -203,6 +201,7 @@ claude mcp add --transport http zhiyike https://zhiyike.cn/mcp
 | [Futurism AI](https://futurism.com/artificial-intelligence) | 媒体 | 每天 | 英文 | AI 社会影响报道 |
 | [Gary Marcus](https://garymarcus.substack.com/) | 博客 | 每周 | 英文 | AI 怀疑派的代表观点 |
 | [IEEE Spectrum AI](https://spectrum.ieee.org/topic/artificial-intelligence/) | 媒体 | 每周 | 英文 | 工程界视角的 AI |
+| [Joho no Todai (English)](https://joho-todai.com/en/) | 媒体 | 每天 | 英文 | 持续报道AI算力硬件及科技产业动态 |
 | [MarkTechPost](https://www.marktechpost.com/) | 媒体 | 每天 | 英文 | 论文与模型发布速报 |
 | [MIT Technology Review AI](https://www.technologyreview.com/topic/artificial-intelligence/) | 媒体 | 每天 | 英文 | 权威科技媒体的 AI 分析 |
 | [SecurityWeek AI](https://www.securityweek.com/category/artificial-intelligence/) | 媒体 | 每天 | 英文 | AI 安全攻防新闻 |
@@ -280,6 +279,7 @@ claude mcp add --transport http zhiyike https://zhiyike.cn/mcp
 
 | 名称 Name | 类型 Type | 更新频率 Frequency | 语言 Lang | 为什么值得看 Why |
 |---|---|---|---|---|
+| [DisconfirmAI 阅读](https://disconfirmai.com/zh/reading) | 社区 | 每天 | 中文 | 中文 AI 资讯摘要聚合，保留可点源链便于回原文 |
 | [Hacker News](https://news.ycombinator.com/) | 社区 | 实时 | 英文 | 技术圈最热讨论 |
 | [Hacker News 首页 RSS(hnrss)](https://hnrss.org/newest?q=AI) | 社区 | 实时 | 英文 | 按关键词订阅 HN |
 | [Linux.do](https://linux.do/) | 社区 | 实时 | 中文 | 中文 AI 工具玩家社区 |

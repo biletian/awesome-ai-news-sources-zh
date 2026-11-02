@@ -12,6 +12,8 @@
 2. 运行 / Run `python3 scripts/gen_table.py`，README 会自动更新。
 3. 提 PR，写明这个源为什么值得看 / Open a PR explaining why the source is worth reading.
 
+不确定是否该收，可先开 [建议新源](.github/ISSUE_TEMPLATE/suggest_source.md) Issue。 / Not sure it belongs? Open a [suggest-source issue](.github/ISSUE_TEMPLATE/suggest_source.md) first.
+
 停更或 404 的源会移出并记录在 `REMOVED.md`。Dead or stale sources are removed and logged in `REMOVED.md`.
 
 By contributing you agree your contribution is released under CC0 1.0.
