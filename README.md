@@ -6,7 +6,7 @@
 # Awesome AI News Sources（中文）
 
 <!-- BADGE:START -->
-[![sources](https://img.shields.io/badge/sources-176-2ea44f)](#信源--sources)
+[![sources](https://img.shields.io/badge/sources-177-2ea44f)](#信源--sources)
 <!-- BADGE:END -->
 
 **中文** | [English](#english)
@@ -35,7 +35,7 @@ We read these sources every day and turn them into one card per event → [zhiyi
 |---|---|
 | 官方博客/模型厂商 · Official blogs & labs | 47 |
 | X 账号 · X accounts | 28 |
-| 中文媒体 · Chinese media | 21 |
+| 中文媒体 · Chinese media | 22 |
 | 英文媒体 · English media | 22 |
 | Newsletter · Newsletters | 19 |
 | 研究/论文 · Research & papers | 9 |
@@ -43,7 +43,7 @@ We read these sources every day and turn them into one card per event → [zhiyi
 | 社区聚合 · Communities & aggregators | 9 |
 | 播客/视频 · Podcasts & video | 6 |
 | 政策监管 · Policy & regulation | 6 |
-| **合计 Total** | **176** |
+| **合计 Total** | **177** |
 <!-- OVERVIEW:END -->
 
 ## 直接订阅 · Subscribe
@@ -171,6 +171,7 @@ claude mcp add --transport http zhiyike https://zhiyike.cn/mcp
 | [InfoQ 中文 AI](https://www.infoq.cn/topic/AI) | 媒体 | 每天 | 中文 | 面向工程师的 AI 落地报道 |
 | [IT之家 AI](https://www.ithome.com/tag/ai/) | 媒体 | 每天多次 | 中文 | 国内科技快讯更新最快 |
 | [Solidot](https://www.solidot.org/) | 媒体 | 每天 | 中文 | 简短科技新闻含 AI |
+| [听说了吗？AI 解读站](https://anymesgs.com/) | 媒体 | 每天 | 中文 | 海外 AI 新闻逐条用中文讲清来龙去脉，配图解和播客 |
 | [品玩](https://www.pingwest.com/) | 媒体 | 每天 | 中文 | 硅谷与国内科技动态 |
 | [宝玉的分享](https://baoyu.io/) | 媒体 | 每周 | 中文 | 高质量英文 AI 文章中译 |
 | [少数派](https://sspai.com/) | 媒体 | 每天 | 中文 | AI 工具效率实践 |
